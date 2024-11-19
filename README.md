@@ -3,10 +3,10 @@
 My name is McKenna and this is my github! I am a data scientist and researcher interested in using visualizations and mathematical analysis can help us communicate stories which data is telling. 
 
 ## Tech Stack
-Databases: SQL, MySql, MongoDB, Redis, Neo4j
-Coding languages: Python, R, Java, HTML, CSS, C++
-Python Packages: Pandas, Sklearn, MatPlotLib, Numpy, MatPlotLib, Altair, Seaborn
-Visualizations software: PowerBi, Tableau
+Databases: SQL, MySql, MongoDB, Redis, Neo4j <br/>
+Coding languages: Python, R, Java, HTML, CSS, C++ <br/>
+Python Packages: Pandas, Sklearn, MatPlotLib, Numpy, MatPlotLib, Altair, Seaborn <br/>
+Visualizations software: PowerBi, Tableau <br/>
 
 ## Publications
 
